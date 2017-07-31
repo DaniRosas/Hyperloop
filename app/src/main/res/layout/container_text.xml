@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Introduce text"
+        android:textSize="12sp"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:id="@+id/editText"
+
+        />
+
+</android.support.v7.widget.CardView>
